@@ -1,0 +1,91 @@
+* { margin:0;
+    padding:0;
+       
+}
+
+.menu {
+    font-family: 'Poppins';
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #17233D;
+    margin-left: 36px;
+}
+
+#botao{
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-left: 36px;
+    margin-top: 30px;
+    Width:124px;
+    Height:51px;
+    Radius:6px;
+}
+
+.container{
+display: flex;
+align-items: center;
+margin-left: 121px;
+padding: 30px;
+
+}
+
+h1{    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+    Width:582px;
+    margin-left: 60px;
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: #4B505A;
+    margin-bottom: 30px;
+    Width:493px;
+    margin-top: 30px;
+    margin-left: 60px;
+    }
+
+p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+    color: #6FBF44;
+    align-items: center;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.container imagem {
+    margin-top: 100px;
+    
+}
+
+#imagem{
+    width: 595.18px;
+    height: 500px;
+}
+
+.leiamais {
+    margin-left: 60px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6FBF44;
+}
